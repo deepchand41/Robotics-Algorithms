@@ -1,0 +1,8 @@
+prefix=/home/yinyang/catkin_ws/devel
+
+Name: Dubin
+Description: Description of Dubin
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+Dubin
+-DCATKIN_DEVEL_PREFIX=/home/yinyang/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yinyang/catkin_ws/install -G Unix Makefiles
